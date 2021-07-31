@@ -1,0 +1,47 @@
+(1)**USE CASES OF VERSION CONTROL SYSTEM**
+
+    1. It is simple to use, because of its basic functionalities like saving and managing files without tampering with the previous versions.
+
+    2. A developer can choose to save the progress of a particular project locally, yet allowing another developer to "pull" or access the source code.
+
+    3. In the process of Software development, developers use version control system to isolate a particular file or code to what's called a "branch", before finally merging it. 
+
+
+**GIT**
+
+GIT is a Software for managing and tracking the source code of a project or several projects.
+
+(2)**IMPORTANCE AND USES OF VERSION CONTROL SYSTEM**
+
+    1. It is used to better organise our code when working on a team of Software developers.
+
+    2. It allow teams to track and manage the source code of their projects.
+
+    3. Developers can collaborate on a project from different locations.
+
+    4. Version control system is used to store the progress of a particular project, incase a server goes down or the PC gets stolen, the source code will be saved to a secure remote server, given that the developer already pushed it.
+
+    5. Version control system also increases productivity, as it allows many developers to work on project simultaneously.
+
+
+(3)**TYPES OF VERSION CONTROL SYSTEM**
+
+    1. Local Version Control(a local database on a local computer).
+
+    2. Centralized Version Control
+
+    3. Distributed Version Control(e.g GIT, Mercurial, Subversion, etc)
+
+
+(5)**SOFTWARE MANAGEMENT**
+
+    Software management is the process of tracking and planning the tasks that make up a project.
+
+    Some Software management tools are: JIRA, Asana, Redbooth, Trello, etc
+
+    **USES OF SOFTWARE MANAGEMENT TOOLS**
+        1. To effectively plan the tasks.
+        2. To track the progress of our project.
+        3. To manage time effectively.
+        4. It is used for allocating tasks within the team.
+        5. It enhances communication and collaboration among teammates.
